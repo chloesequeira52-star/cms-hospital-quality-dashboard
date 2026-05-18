@@ -107,9 +107,4 @@ Hospitals with stronger patient experience ratings demonstrated significantly gr
 
 These findings suggest that patient experience metrics may provide useful information for healthcare quality monitoring and performance improvement efforts. Healthcare organizations can use patient feedback measures to identify opportunities to improve care delivery and patient outcomes.
 
----
 
-## Author
-
-Chloe Sequeira  
-MPH Candidate, Epidemiology | Healthcare Analytics | SAS | Public Health Research
